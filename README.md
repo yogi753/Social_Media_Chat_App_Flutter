@@ -15,5 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 
 Sample Snapshots:
 
+![image](https://github.com/yogi753/Social_Media_Chat_App_Flutter/assets/113347563/6363af59-1dd4-4e44-b085-2e4ab8529d38)
+
 
 

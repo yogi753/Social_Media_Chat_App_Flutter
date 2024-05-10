@@ -17,5 +17,8 @@ Sample Snapshots:
 
 ![image](https://github.com/yogi753/Social_Media_Chat_App_Flutter/assets/113347563/6363af59-1dd4-4e44-b085-2e4ab8529d38)
 
+![image](https://github.com/yogi753/Social_Media_Chat_App_Flutter/assets/113347563/c3d54404-9f00-41c9-84fe-0a645fe29b93)
+
+
 
 

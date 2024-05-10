@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Social_Media_Chat_App_Flutter
+>>>>>>> 0dcd0e2b21da0a5509e640bd08a9b3104cec548d
